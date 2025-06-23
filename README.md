@@ -3,10 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-
-Assuming 
-
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. If you haven't done the pre-installation, go ahead and do that first.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -25,6 +22,13 @@ Assuming
 - Setting up a VM in Azure
 
 <h2>Configuration Steps</h2>
+
+<b>So there are two URLs that we’re mainly gonna use — one is for the admin/analyst side, where we manage and work on tickets, and the other is for the end user, where they can submit tickets and check their status.</b>
+
+<h4>Acknowledge Agent Panel vs Admin Panel
+</h4>
+
+<p></p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
