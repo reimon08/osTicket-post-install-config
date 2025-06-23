@@ -1,4 +1,4 @@
-<p align="center">
+![Screenshot 2025-06-23 at 9 17 53 AM](https://github.com/user-attachments/assets/1e15b037-3f62-4f27-9dbd-43eddd951655)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -23,7 +23,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<b>So there are two URLs that we’re mainly gonna use — one is for the admin/analyst side, where we manage and work on tickets, and the other is for the end user, where they can submit tickets and check their status.</b>
+<b>So there are two URLs that we’re mainly gonna use, one is for the admin/analyst side, where we manage and work on tickets, and the other is for the end user, where they can submit tickets and check their status.</b>
+
+<h4>Admin/analyst page</h4>
+
+<p>http://localhost/osTicket/scp/login.php</p>
+
+![Screenshot 2025-06-23 at 9 24 48 AM](https://github.com/user-attachments/assets/4208c80d-d359-4b99-b575-d9f450ccc6f5)
+
+
+<p>After logging in.</p>
+
+<img width="1000" alt="Screenshot 2025-06-23 at 9 25 21 AM" src="https://github.com/user-attachments/assets/fa461926-40ae-472c-92ac-1633409fecc3" />
+
+<h4>End-user page</h4>
+
+<p>http://localhost/osTicket</p>
+
+<img width="1000" alt="Screenshot 2025-06-23 at 9 25 32 AM" src="https://github.com/user-attachments/assets/ef3143a1-91c3-4f02-a321-92be8b2e6137" />
+
 
 <h4>Acknowledge Agent Panel vs Admin Panel
 </h4>
