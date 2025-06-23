@@ -1,0 +1,1 @@
+# osTicket-post-install-config
