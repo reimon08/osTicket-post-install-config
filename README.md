@@ -1,4 +1,4 @@
-![Screenshot 2025-06-23 at 9 17 53 AM](https://github.com/user-attachments/assets/1e15b037-3f62-4f27-9dbd-43eddd951655)<p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
