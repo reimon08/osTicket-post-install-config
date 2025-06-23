@@ -98,13 +98,51 @@ https://github.com/user-attachments/assets/784dbc41-989b-4311-9dfc-652c56c5307c
 <h4>Allow anyone to create tickets
 </h4>
 
-<p>Now we’re gonna allow end users to create tickets even if they haven’t registered yet. This option is usually unchecked by default, but we’re gonna make sure it’s enabled so anyone can submit a ticket without having to sign up first.
+<p>Now we’re gonna allow end users to create tickets even if they haven’t registered yet. This option is usually unchecked by default, but we’re gonna make sure it’s disabled so anyone can submit a ticket without having to sign up first.
 
 Admin Panel -> Settings -> Users -> (UNCHECK- Registration Required: Require registration and login to create tickets)
 </p>
 
 
 https://github.com/user-attachments/assets/11c2dbab-5f1f-4696-a19a-4e3979b5003d
+
+<h4>Configure Agents (workers)</h4>
+
+<p>Now we’re gonna configure Agents, which are basically the actual workers who’ll be handling the tickets.<p/>
+
+<h4>We are going to create two agents</h4>
+
+<p>
+jane (Dept: Sysadmins, Role: Supreme Admin) username: jane| password: Password1<p/>                                      
+
+<p>I also added Jane to the Online banking team</p>  
+
+
+
+https://github.com/user-attachments/assets/514b90f2-49d8-4984-ac44-d21dfd3de79d
+
+
+
+<p>john (Dept: Support, Role: View only) username: john | password: Password1<p/>
+
+
+
+https://github.com/user-attachments/assets/45de64d6-8ca5-4ef0-a0b4-bb2fb82e13d3
+
+<h4>Configure Users (customers)</h4>
+
+<p>We’re gonna assign one end user named Karen, this will be the account we’ll use to create trouble tickets for testing. We are also gonna give her an email address.</p>
+
+<p>Agent Panel -> Users -> Add New</p>
+
+
+
+https://github.com/user-attachments/assets/8306ed6c-5c5c-48e8-bdf3-b656d83d484a
+
+
+
+
+
 
 
 
