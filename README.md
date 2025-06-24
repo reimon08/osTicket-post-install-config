@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - 🏢 Set Up Departments - Create departments to control ticket visibility.
 - 👥 Create Teams - Built cross-department teams to group agents from multiple departments.
 - 🛂 Allowed Unregistered Users to Submit Tickets - Modify user settings to allow end users to create tickets without prior registration.
-- 👩‍💼 Add Agents - Add workers for (SysAdmins) and (Support) to handle tickets.
+- 👩‍💼 Add Agents - Add workers to handle tickets.
 - 👨‍💻 Add End Users (Customers) - Added test users to simulate ticket creation.
 - ⏱ Configure SLA Policies - Set different SLA levels with varying grace periods and schedules.
 - 📝 Set Up Help Topics - Created topics for better ticket categorization.
