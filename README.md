@@ -140,6 +140,46 @@ https://github.com/user-attachments/assets/45de64d6-8ca5-4ef0-a0b4-bb2fb82e13d3
 https://github.com/user-attachments/assets/8306ed6c-5c5c-48e8-bdf3-b656d83d484a
 
 
+<h4>Configure SLA</h4>
+
+<p>So now I'm going to configure the SLA, SLA is a time frame where you have to finish a specific task. It sets a deadline for how long you have to respond to or resolve a ticket. </p>
+
+<p>We're gonna create three different SLA.</p>
+
+<h4>Sev-A (Grace Period: 1 hour, Schedule: 24/7) - Critical problem</h4>
+<h4>Sev-B (Grace Period: 4 hours, Schedule: 24/7) - High problem</h4>
+<h4>Sev-C (Grace Period: 8 hours, Business Hours) - Medium or low problem</h4>
+
+<p>So the grace period is basically a buffer that gives you time to respond before the SLA timer kicks back in after a new update on the ticket.</p>
+
+<p>So for critical tickets, I’d keep the grace period low because you wanna start the SLA timer right away and stay on top of it. But for less important tickets, you can afford to give yourself a longer grace period since it’s not as urgent.</p>
+
+<p>To configure go, Admin Panel -> Manage -> SLA</p>
+
+
+
+https://github.com/user-attachments/assets/60686ebd-7169-45e2-9e74-72c53793be5b
+
+<h4>Configure Help Topics (For when users create a ticket)</h4>
+
+<p>So now we’re gonna configure Help Topics. You can kinda think of it like a category, when an end user is creating a ticket, they can pick which topic it falls under. As a help desk worker, you can also change the topic later if it needs to be updated or moved to a different category.</p>
+
+<p>We're going to create these help topics:</p>
+
+<h4>-Business Critical Outage</h4>
+<h4>-Personal Computer Issues</h4>
+<h4>-Equipment Request</h4>
+<h4>-Password Reset</h4>
+<h4>-Other</h4>
+
+
+<p>To configure, Admin Panel -> Manage -> Help Topics</p>
+
+
+
+
+
+
 
 
 
