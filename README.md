@@ -177,6 +177,17 @@ https://github.com/user-attachments/assets/60686ebd-7169-45e2-9e74-72c53793be5b
 
 
 
+https://github.com/user-attachments/assets/022c83fa-0b5e-4a8f-adef-0de36cc5ca37
+
+
+<p>So we’ve done all the configuration to get osTicket fully set up and ready to go. We installed the system, set up roles, departments, teams, agents, users, SLAs, and help topics, basically building out a full help desk environment. Now we’ve got a system where end users can submit tickets, agents can work on them, and admins can manage everything behind the scenes. This setup provides a clear view of how a real-life help desk operates and how different roles interact with tickets based on their respective responsibilities.
+</p>
+
+<h4>I hope this tutorial was helpful, and hopefully there were no mistakes along the way! 😄.</h4>
+
+
+
+
 
 
 
